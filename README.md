@@ -1,1 +1,1 @@
-# Swipimage
+# Swipeimage
